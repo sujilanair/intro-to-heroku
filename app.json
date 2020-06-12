@@ -2,7 +2,7 @@
   "name": "dreamhouse-web-app",
   "description": "DreamHouse Web App",
   "keywords": [
-    "app-cloud"
+    "app-cloud" 
   ],
   "repository": "https://github.com/sujilanair/intro-to-heroku",
   "addons": [
